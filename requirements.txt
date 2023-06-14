@@ -1,0 +1,6 @@
+django==3.2.7
+djangorestframework
+pillow
+gunicorn
+psycopg2-binary
+django-environ
